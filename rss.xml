@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LADAWARDS]]></title>
         <description><![CDATA[LADAWARDS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ladawards/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 22:43:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 03:10:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ladawards/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0826625d-0eee-43a3-ac34-4b5abaf386ac.jpg">]]></description>
+            <link>https://thegrid.ai/ladawards/pecha-kucha/index.html</link>
+            <guid isPermaLink="false">092b75cb-c81b-4b26-a20d-db5b8a792252</guid>
+            <pubDate>Fri, 08 Jul 2016 03:10:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>YEAAAHHHHH</p>]]></description>
-            <link>undefinedd7c347a5-1dde-4c68-84bd-0b8e14253224/index.html</link>
+            <link>https://thegrid.ai/ladawards/d7c347a5-1dde-4c68-84bd-0b8e14253224/index.html</link>
             <guid isPermaLink="false">d7c347a5-1dde-4c68-84bd-0b8e14253224</guid>
             <pubDate>Tue, 22 Mar 2016 22:43:21 GMT</pubDate>
         </item>
