@@ -1,6 +1,6 @@
 name: LADAWARDS
 favicon: null
-layout_spectrum: 0.1426554622594267
+layout_spectrum: 1
 typography_spectrum: 0.14123779814690351
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#b0b5bd'
     - '#7ef47b'
     - '#ea446c'
-  brandStrength: 0.5126438019797206
+  brandStrength: 0.3125
   lightness: 0.834875215543434
-  saturation: 0.8360315372701734
+  saturation: 0.6875
   rhythmicContrast: 0.8335075355134904
 purpose: []
